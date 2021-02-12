@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 55d06cd351ef7214cbc1ac96bbbffc8e
+timeCreated: 1525703933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cinema4D_Editor
+    100002: cit
+    100004: cop_kutusu
+    100006: degirmen
+    100008: halat
+    100010: halat_MeshPart0
+    100012: halat_MeshPart1
+    100014: kovalar
+    100016: kulube
+    100018: MILL_1
+    100020: //RootNode
+    100022: paletler
+    100024: zemin
+    400000: Cinema4D_Editor
+    400002: cit
+    400004: cop_kutusu
+    400006: degirmen
+    400008: halat
+    400010: halat_MeshPart0
+    400012: halat_MeshPart1
+    400014: kovalar
+    400016: kulube
+    400018: MILL_1
+    400020: //RootNode
+    400022: paletler
+    400024: zemin
+    2300000: cit
+    2300002: cop_kutusu
+    2300004: degirmen
+    2300006: halat_MeshPart0
+    2300008: halat_MeshPart1
+    2300010: kovalar
+    2300012: kulube
+    2300014: paletler
+    2300016: zemin
+    3300000: cit
+    3300002: cop_kutusu
+    3300004: degirmen
+    3300006: halat_MeshPart0
+    3300008: halat_MeshPart1
+    3300010: kovalar
+    3300012: kulube
+    3300014: paletler
+    3300016: zemin
+    4300000: kovalar
+    4300002: cop_kutusu
+    4300004: halat_MeshPart0
+    4300006: halat_MeshPart1
+    4300008: cit
+    4300010: paletler
+    4300012: zemin
+    4300014: kulube
+    4300016: degirmen
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
