@@ -1,2 +1,2 @@
 # Unity-3d-Horror-Game-CSE---VCD-Collaboration-
-It is a multidisciplinary project between CSE and VCD departments. There are 9 people involved in this project. VCD members generated game assets and other game materials. CSE members took part in coding, implementing to unity and creating a report.
+It is a multidisciplinary project between CSE and VCD departments. There are 9 people involved in this project. VCD members generated assets of the game and other game materials. CSE members took part in coding and creating a report. Unity and C# are used in this project. Personally, I was responsible with animation code interactions, camera movement, map and object placement and writing report.
